@@ -2,7 +2,7 @@
 
 [![Language](https://img.shields.io/badge/Language-C%2B%2B-blue.svg)](https://isocpp.org/)
 [![Library](https://img.shields.io/badge/Library-SDL2-red.svg)](https://libsdl.org/)
-[![Course](https://img.shields.io/badge/Sharif%20University-Fundamentals%20of%20Programming%20(25768)-green.svg)](http://sharif.ir/)
+[![Course](https://img.shields.io/badge/Sharif%20University-Basic%20Programming%20(25768)-green.svg)](http://sharif.ir/)
 [![Total Score](https://img.shields.io/badge/Total%20Score-530%20Pts%20(300%20Base%20%2B%20230%20Bonus)-orange.svg)]()
 
 A feature-rich, high-performance arcade puzzle game inspired by the classic *Bouncing Balls / Bubble Shooter* genre. Built from scratch in **C++** using the **Simple DirectMedia Layer (SDL2)** library as the final project for the **Fundamentals of Programming (Course 25768)** at **Sharif University of Technology** under the supervision of **Dr. Arasteh** and **Dr. Vosooghi Vahdat**.
